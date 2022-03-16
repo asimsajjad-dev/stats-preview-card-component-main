@@ -154,6 +154,7 @@ h3{
     .stats{
         display: flex;
         flex-direction: column;
+        justify-content:space-around;
         padding:0;
         margin:0 auto;
     }
