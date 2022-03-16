@@ -151,6 +151,13 @@ h3{
         position:absolute;
         
     }
+    h2,
+    h3{
+        display:flex;
+        flex-direction:colum;
+    text-transform: uppercase;
+    padding: 0.5rem;
+}
    
     img{
         display: block;
